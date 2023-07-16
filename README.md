@@ -24,19 +24,33 @@ All the cards have the information of the accounts but I think the information t
 
 ### Test Code:
 4
+
 Correct
+
 99
+
 1
+
 1
+
 2
+
 100
+
 3
+
 1000
+
 2
+
 10000
+
 3
+
 1000
+
 1
+
 4
 
 ![image](https://github.com/ItsGJun/ATM_Controller/assets/113964367/68e939d1-4028-4731-b6a0-0f50432f6426)
