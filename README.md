@@ -16,3 +16,5 @@ If you type option "2", you can deposit money. You have to type the amount of mo
 If you type option "3", you can withdraw money. You have to type the amount of money that you want to withdraw. If you type the the amount of money which is more than in your account, the program will tell you that there is not enough money.
 ### <mark>7. End :</mark>
 If you finished the work, you can end the ATM program.
+
+![image](https://github.com/ItsGJun/ATM_Controller/assets/113964367/0e451bab-26e8-4461-860d-b5a04d4783fb)
