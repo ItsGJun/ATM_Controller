@@ -2,7 +2,7 @@
 BearRobotics_CodingTest
 
 ## 💵 Explanation 💵
-I made a Class named 'ATM' and in this class, there are methods named 'work','Check_Balance','Deposit', and 'Withdraw'.
+I made a Class named 'ATM' and in this class, there are methods named 'work', 'Check_Balance', 'Deposit', and 'Withdraw'.
 As a constructor of 'ATM' class, 
 ### <mark>1. Insert Card :</mark>
 Before we use ATM, we should insert card which has the information about the balance of each account. Based on this mechanism, I tried to show the information of card by using vector. Each value of the vector represents the balance of each account. For example, the first value of the vector shows the balance of the first account and so on. In addition, in the main function, I make an object of 'ATM' class with the constructor using this 1 dimensional vector.
