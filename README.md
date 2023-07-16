@@ -22,5 +22,22 @@ If you finished the work, you can end the ATM program.
 ### How to Clone?
 All the cards have the information of the accounts but I think the information that cards have is much more complicated. Because I just simplified the information that cards have, if you want to clone my code, you have to change the way that my code reads the account information from cards.
 
+### Test Code:
+4
+Correct
+99
+1
+1
+2
+100
+3
+1000
+2
+10000
+3
+1000
+1
+4
 
-![image](https://github.com/ItsGJun/ATM_Controller/assets/113964367/0e451bab-26e8-4461-860d-b5a04d4783fb)
+![image](https://github.com/ItsGJun/ATM_Controller/assets/113964367/68e939d1-4028-4731-b6a0-0f50432f6426)
+
